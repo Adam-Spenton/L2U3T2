@@ -1,0 +1,7 @@
+Oswald - for titles 
+
+Jost - alternative for titles
+
+Oxygen - for normal text
+
+Quicksand - alternative for normal text

@@ -1,0 +1,37 @@
+.Aquamarine {
+    background-color: #8AC8C7 !important;
+    border-color: #8AC8C7 !important;
+}
+
+.Teal_green {
+    background-color: #028476;
+    border-color: #028476;
+}
+
+.Ebony {
+    background-color: #242120;
+    border-color: #242120;
+}
+
+.Pewter {
+    background-color: #E2ECEB;
+    border-color: #E2ECEB;
+}
+
+.Go_down {
+    position:absolute;
+    bottom: -125px;;
+    left: 65px;;
+}
+
+.Go_down_2 {
+    position:absolute;
+    bottom: -20px;
+    left: 15px;
+}
+
+.Go_middle {
+    display: flex;
+    justify-content: center;
+}
+
